@@ -1,5 +1,5 @@
 # MD5-Implementation
-A simple C header file which provides a function for computing the MD5 hash of a given string.
+A simple C header file which provides a function for computing the MD5 hash of a given string. Designed to be easy to use and as readable as possible.
 
 # Usage
 Place the md5.h file in the same directory as your C source files. Simply include the header file at the top of your C program like so:
